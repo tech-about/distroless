@@ -1,1 +1,1 @@
-FROM gcr.io/distroless/cc
+FROM gcr.io/distroless/cc-debian11
